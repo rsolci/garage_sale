@@ -41,4 +41,22 @@
     "price": "R$ 600,00",
     "pictures": ["lavar1.jpeg"]
   }
+  ,{
+    "title": "Forno Microondas Electrolux MEF41",
+    "description": "6 Anos de Uso. Marcas de uso no painel numérico",
+    "price": "R$ 80,00",
+    "pictures": ["microondas.jpeg"]
+  }
+  ,{
+    "title": "Fogão Brastemp Clean",
+    "description": "6 Anos de Uso. Pequenas marcas de uso no painel superior",
+    "price": "R$ 100,00",
+    "pictures": ["fogao1.jpeg"]
+  }
+  ,{
+    "title": "Geladeira Electrolux Frost Free",
+    "description": "Modelo DF4. 6 Anos de uso. Ótimo estado de conservação interno. 1 Arranhão na parte externa direita",
+    "price": "R$ 800,00",
+    "pictures": ["geladeira1.jpeg"]
+  }
 ]

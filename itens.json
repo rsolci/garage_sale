@@ -123,6 +123,7 @@
     "title": "Climatizador de ar Electrolux",
     "description": "Com bandeixa para água (função umidificador)",
     "price": "R$ 150,00",
+    "sold": true,
     "pictures": ["climatizador2.jpeg","climatizador1.jpeg"]
   }
   ,{
@@ -143,6 +144,7 @@
     "title": "Box + Colchão Queen Size",
     "description": "5 Anos de uso. Box com boa estrutura, mas revestimento arranhado por animais. Revestimento do colchão com fibra antibactéria, algumas manchas de animais (prontamente higienizadas com produtos específicos).  ",
     "price": "R$ 400,00",
+    "sold": true,
     "pictures": []
   }
   ,{

@@ -31,9 +31,9 @@
   }
   ,{
     "title": "Cadeira Gamer ALPHA GAMER EPSILON BLACK. ",
-    "description": "2 Anos de uso. Ótimo estado de conservação.",
+    "description": "2 Anos de uso. Pequenos arranhados de animal no assento",
     "price": "R$ 350,00",
-    "pictures": ["cadgamer1.png","cadgamer2.png"]
+    "pictures": ["cadgamer1.png","cadgamer2.png", "cadgamer3.png"]
   }
   ,{
     "title": "TV LED 48'' Philips",
@@ -67,7 +67,7 @@
   }
   ,{
     "title": "Suporte para Televisão ",
-    "description": "2 Anos de uso. Ótimo estado de conservação.",
+    "description": "2 Anos de uso. Marcas de uso na pintura. Acompanha 1 prateleira original em metal e uma prateleira extra em madeira.",
     "price": "R$ 200,00",
     "pictures": ["suporte1.jpg","suporte2.jpg"]
   }

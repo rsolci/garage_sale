@@ -29,6 +29,10 @@ body {
 .itens-container article img {
     max-height: 250px;
     margin-left: 5px;
+    transition: -webkit-transform 0.25s ease;
+}
+.itens-container article img:active {
+    -webkit-transform: scale(3);
 }
 
 .itens-container article div {

@@ -29,4 +29,16 @@
     "price": "R$ 1500,00",
     "pictures": ["ps4_1.jpg", "ps4_2.jpeg"]
   }
+  ,{
+    "title": "TV LED 48'' Philips",
+    "description": "5 Anos de Uso. Não smart",
+    "price": "R$ 800,00",
+    "pictures": ["tv1.jpg"]
+  }
+  ,{
+    "title": "Lava e Seca Brastemp 7Kg",
+    "description": "6 Anos de Uso. Pequenas marcas de uso.",
+    "price": "R$ 600,00",
+    "pictures": ["lavar1.jpeg"]
+  }
 ]

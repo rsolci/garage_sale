@@ -1,5 +1,5 @@
 body {
-    margin: 0 200px;
+    /* margin: 0 200px; */
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
@@ -53,4 +53,10 @@ body {
     font-weight: bold;
     font-family: 'Courier New', Courier, monospace;
     color: #dc143f;
+}
+
+@media (min-width: 600px) {
+    body {
+        margin: 0 200px;
+    }
 }

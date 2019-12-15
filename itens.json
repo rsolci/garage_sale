@@ -107,5 +107,17 @@
     "price": "R$ 50,00",
     "pictures": ["aparador1.jpeg","aparador3.jpeg"]
   }
+  ,{
+    "title": "Climatizador de ar Electrolux",
+    "description": "Com bandeixa para água (função umidificador)",
+    "price": "R$ 150,00",
+    "pictures": ["climatizador2.jpeg","climatizador1.jpeg"]
+  }
+  ,{
+    "title": "Aspirador Electrolux Mobi 1200w",
+    "description": "Não usa saco coletor. Fio retrátil.",
+    "price": "R$ 50,00",
+    "pictures": ["aspirador1.jpg"]
+  }
   
 ]

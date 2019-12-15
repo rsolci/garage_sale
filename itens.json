@@ -11,6 +11,7 @@
     "title": "Purificador de Água Lorenzetti",
     "description": "Modelo Vitale Água Natural. 1 Ano de Uso. Pode ser fixado na parede ou apoiado em superfície (suporte incluso).",
     "price": "R$ 50,00",
+    "sold": true,
     "pictures": ["purificador_agua.jpg"]
   }
   ,{

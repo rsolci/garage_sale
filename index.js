@@ -47,12 +47,18 @@
     itemDescription.appendChild(document.createTextNode(saleItem.description))
     textDetails.appendChild(itemDescription);
 
+    if (saleItem.availability) {
+      const availabilityItem = document.createElement("summary");
+      availabilityItem.classList.add("availability");
+      availabilityItem.appendChild(document.createTextNode(saleItem.availability))
+      textDetails.appendChild(availabilityItem);
+    }
+
     const itemPrice = document.createElement("footer");
     itemPrice.appendChild(document.createTextNode(saleItem.price))
     textDetails.appendChild(itemPrice);
 
     detailsSection.appendChild(textDetails);
-
 
     const itemSection = document.createElement("article");
     itemSection.appendChild(itemHeader)

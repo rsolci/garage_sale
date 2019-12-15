@@ -2,6 +2,7 @@
   {
     "title": "Mesa de Vidro",
     "description": "80 x 140 cm. Pés em metal, acabamento madeira. Acompanha cadeiras simples com marcas de animais.",
+    "availability": "Retirada ou envio imediato (frete pago pelo comprador)",
     "price": "R$ 150,00",
     "pictures": ["mesa1.jpeg", "mesa2.jpeg"]
   }
@@ -20,6 +21,7 @@
   ,{
     "title": "Monitor LG 21'' 22MP55VQ",
     "description": "60hz 1080p. 3 anos de uso. Possui embalagem original. Acompanha suporte de mesa original e articulado",
+    "availability": "Retirada ou envio imediato (frete pago pelo comprador)",
     "price": "R$ 250,00",
     "pictures": ["monitor_lg2.jpg", "monitor_lg3.jpg"]
   }
@@ -80,30 +82,35 @@
   ,{
     "title": "Triangulo Ortopédico Fino",
     "description": "Bem conservado.",
+    "availability": "Retirada ou envio imediato (frete pago pelo comprador)",
     "price": "R$ 20,00",
     "pictures": ["tri1.jpg","tri2.jpg"]
   } 
   ,{
     "title": "Triangulo Ortopédico Grosso",
     "description": "Usado. Marcas de tecido arranhado.",
+    "availability": "Retirada ou envio imediato (frete pago pelo comprador)",
     "price": "R$ 15,00",
     "pictures": ["tri3.jpg","tri4.jpg"]
   }
   ,{
     "title": "Arara com rodinhas. Altura Regulável. Desmontável.",
     "description": "Ótimo estado de conservação.",
+    "availability": "Retirada ou envio imediato (frete pago pelo comprador)",
     "price": "R$ 30,00",
     "pictures": ["arara.jpg","arara2.jpg"]
   }
   ,{
     "title": "Armário de cabeceira de cama. Duas unidades",
     "description": "2 Unidades iguais. Pequenas manchas no interior de gavetas. Pequeno defeito na superfície de uma unidade.",
+    "availability": "Retirada ou envio imediato (frete pago pelo comprador)",
     "price": "R$ 40,00",
     "pictures": ["cabeceira1.jpeg","cabeceira2.jpeg"]
   }
   ,{
     "title": "Aparador para Sala com uma gaveta e rodinhas",
     "description": "Bom estado de conservação, sem arranhões",
+    "availability": "Retirada ou envio imediato (frete pago pelo comprador)",
     "price": "R$ 50,00",
     "pictures": ["aparador1.jpeg","aparador3.jpeg"]
   }
@@ -140,24 +147,28 @@
   ,{
     "title": "Box DVD Senhor dos Anéis versão extendida",
     "description": "Pequena avaria no canto da caixa",
+    "availability": "Retirada ou envio imediato (frete pago pelo comprador)",
     "price": "R$ 80,00",
     "pictures": ["lotr1.jpeg", "lotr2.jpeg"]
   }
   ,{
     "title": "Teclado ergonômico Microsoft",
     "description": "Teclas baixas, USB",
+    "availability": "Retirada ou envio imediato (frete pago pelo comprador)",
     "price": "R$ 30,00",
     "pictures": ["teclado_erg1.jpeg"]
   }
   ,{
     "title": "Aquecedor Mondial Thermo Ceramic",
     "description": "Dois níveis de aquecimento. Menos de 1 Ano de uso. Na caixa. 110v",
+    "availability": "Retirada ou envio imediato (frete pago pelo comprador)",
     "price": "R$ 60,00",
     "pictures": ["aquecedor.jpg"]
   }
   ,{
     "title": "Batedeira SEMP Masterpiece Orbital 600w",
     "description": "Pouco uso. Acompanha 3 batedores (cremes, massas leves, gancho massa pesada)",
+    "availability": "Retirada ou envio imediato (frete pago pelo comprador)",
     "price": "R$ 180,00",
     "pictures": ["batedeira.jpg"]
   }

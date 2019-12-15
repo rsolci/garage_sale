@@ -45,7 +45,10 @@ body {
     vertical-align: top;
 }
 
-.itens-container article summary {
+.itens-container article .availability {
+    margin-top: 10px;
+    font-size: 14px;
+    color: darkblue;
 }
 
 .itens-container article footer {

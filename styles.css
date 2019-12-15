@@ -63,9 +63,6 @@ body {
     body {
         margin: 0 200px;
     }
-    .itens-container article img {
-        max-width: 95%;
-    }
 }
 
 @media screen and (max-width: 1080px) {

@@ -100,6 +100,7 @@
     "description": "Ótimo estado de conservação.",
     "availability": "Retirada ou envio imediato (frete pago pelo comprador)",
     "price": "R$ 30,00",
+    "sold": true,
     "pictures": ["arara.jpg","arara2.jpg"]
   }
   ,{

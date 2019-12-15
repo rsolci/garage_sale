@@ -3,7 +3,7 @@
     return new Promise(function (resolve, reject) {
       const xhr = new XMLHttpRequest();
       xhr.overrideMimeType("application/json");
-      xhr.open("GET", "itens.json", true);
+      xhr.open("GET", "itens.json?"+ new Date().getTime(), true);
       xhr.onload = function() {
         resolve(xhr.responseText)
       }

@@ -131,5 +131,11 @@
     "price": "R$ 400,00",
     "pictures": []
   }
+  ,{
+    "title": "Headset Logitech G533 7.1 Wireless",
+    "description": "2 Anos de uso. Ótimo estado de conservação. Espuma interna sem dano e limpa. Bateria durando em média 15h.",
+    "price": "R$ 250,00",
+    "pictures": ["headset1.jpg"]
+  }
   
 ]

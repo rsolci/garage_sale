@@ -95,5 +95,11 @@
     "price": "R$ 30,00",
     "pictures": ["arara.jpg","arara2.jpg"]
   }
+  ,{
+    "title": "Armário de cabeceira de cama. Duas unidades",
+    "description": "2 Unidades iguais. Pequenas manchas no interior de gavetas. Pequeno defeito na superfície de uma unidade.",
+    "price": "R$ 40,00",
+    "pictures": ["cabeceira1.jpeg","cabeceira2.jpeg"]
+  }
   
 ]

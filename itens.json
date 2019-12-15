@@ -101,5 +101,11 @@
     "price": "R$ 40,00",
     "pictures": ["cabeceira1.jpeg","cabeceira2.jpeg"]
   }
+  ,{
+    "title": "Aparador para Sala com uma gaveta e rodinhas",
+    "description": "Bom estado de conservação, sem arranhões",
+    "price": "R$ 50,00",
+    "pictures": ["aparador1.jpeg","aparador3.jpeg"]
+  }
   
 ]

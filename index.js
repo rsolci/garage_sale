@@ -1,4 +1,9 @@
 (async function() {
+  document.addEventListener("click", function() {
+    document.querySelectorAll("img").forEach(element => {
+      element.classList.remove("zoomed")
+    })
+  })
   function loadData() {
     return new Promise(function (resolve, reject) {
       const xhr = new XMLHttpRequest();
@@ -28,6 +33,10 @@
     saleItem.pictures.forEach(picture => {
       const itemPicture = document.createElement("img");
       itemPicture.src = picture;
+      itemPicture.addEventListener("click", function(e) {
+        itemPicture.classList.toggle("zoomed");
+        e.stopPropagation();
+      })
       detailsSection.appendChild(itemPicture);
     })
 

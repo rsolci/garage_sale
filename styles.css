@@ -31,7 +31,7 @@ body {
     margin-left: 5px;
     transition: -webkit-transform 0.25s ease;
 }
-.itens-container article img:active {
+.itens-container article img.zoomed {
     -webkit-transform: scale(3);
 }
 

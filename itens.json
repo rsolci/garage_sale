@@ -4,11 +4,23 @@
     "description": "80 x 140 cm. Pés em metal, acabamento madeira. Acompanha cadeiras simples com marcas de animais.",
     "price": "R$ 150,00",
     "pictures": ["mesa1.jpeg", "mesa2.jpeg"]
-  },
-  {
+  }
+  ,{
     "title": "Purificador de Água Lorenzetti",
     "description": "Modelo Vitale Água Natural. 1 Ano de Uso. Pode ser fixado na parede ou apoiado em superfície (suporte incluso).",
     "price": "R$ 50,00",
     "pictures": ["purificador_agua.jpg"]
+  }
+  ,{
+    "title": "Monitor  ASUS 24'' 144hz VG248QE",
+    "description": "144hz 1080p. 1 ano de uso. Possui embalagem original. Acompanha suporte de mesa.",
+    "price": "R$ 50,00",
+    "pictures": ["monitor_asus1.jpg"]
+  }
+  ,{
+    "title": "Monitor  LG 21'' 22MP55VQ",
+    "description": "60hz 1080p. 3 anos de uso. Possui embalagem original. Acompanha suporte de mesa.",
+    "price": "R$ 250,00",
+    "pictures": ["monitor_lg1.jpg"]
   }
 ]

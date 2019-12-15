@@ -8,10 +8,14 @@ body {
     font-weight: bold;
     text-align: center;
 }
-
 .contact p {
     font-family: 'Courier New', Courier, monospace;
     padding-left: 15px;
+}
+
+.contact .social-icon {
+    max-height: 24px;
+    vertical-align: bottom;
 }
 
 .itens-container article {

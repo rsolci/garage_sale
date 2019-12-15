@@ -137,5 +137,17 @@
     "price": "R$ 250,00",
     "pictures": ["headset1.jpg"]
   }
+  ,{
+    "title": "Box DVD Senhor dos Anéis versão extendida",
+    "description": "Pequena avaria no canto da caixa",
+    "price": "R$ 80,00",
+    "pictures": ["lotr1.jpeg", "lotr2.jpeg"]
+  }
+  ,{
+    "title": "Teclado ergonômico Microsoft",
+    "description": "Teclas baixas, USB",
+    "price": "R$ 30,00",
+    "pictures": ["teclado_erg1.jpeg"]
+  }
   
 ]

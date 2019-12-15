@@ -55,6 +55,7 @@
     "title": "Forno Microondas Electrolux MEF41. 31 Litros",
     "description": "6 Anos de Uso. Marcas de uso no painel numérico",
     "price": "R$ 80,00",
+    "sold": true,
     "pictures": ["microondas.jpeg"]
   }
   ,{
@@ -108,6 +109,7 @@
     "description": "2 Unidades iguais. Pequenas manchas no interior de gavetas. Pequeno defeito na superfície de uma unidade. 39 x 46 x 61cm (profundidade, largura, altura)",
     "availability": "Retirada ou envio imediato (frete pago pelo comprador)",
     "price": "R$ 40,00",
+    "sold": true,
     "pictures": ["cabeceira1.jpeg","cabeceira2.jpeg"]
   }
   ,{
@@ -134,6 +136,7 @@
     "title": "Mesa para escritório SEM gaveteiro",
     "description": "68 x 120 x 75 cm (profundidade, largura, altura). Foto para ilustração do modelo. Não possui gaveteiro",
     "price": "R$ 50,00",
+    "sold": true,
     "pictures": ["mesa_escritorio.jpg"]
   }
   ,{
@@ -167,6 +170,7 @@
     "description": "Dois níveis de aquecimento. Menos de 1 Ano de uso. Na caixa. 110v",
     "availability": "Retirada ou envio imediato (frete pago pelo comprador)",
     "price": "R$ 60,00",
+    "sold": true,
     "pictures": ["aquecedor.jpg"]
   }
   ,{
@@ -174,6 +178,7 @@
     "description": "Pouco uso. Acompanha 3 batedores (cremes, massas leves, gancho massa pesada)",
     "availability": "Retirada ou envio imediato (frete pago pelo comprador)",
     "price": "R$ 180,00",
+    "sold": true,
     "pictures": ["batedeira.jpg"]
   }
   

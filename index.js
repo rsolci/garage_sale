@@ -25,6 +25,9 @@
   const itensContainer = document.querySelector(".itens-container")
 
   dataJson.forEach(saleItem => {
+    if (saleItem.sold) {
+      return;
+    }
     const itemHeader = document.createElement("header");
     itemHeader.appendChild(document.createTextNode(saleItem.title))
 

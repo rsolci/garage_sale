@@ -4,6 +4,7 @@
     "description": "80 x 140 cm. Pés em metal, acabamento madeira. Acompanha cadeiras simples com marcas de animais.",
     "availability": "Retirada ou envio imediato (frete pago pelo comprador)",
     "price": "R$ 150,00",
+    "sold": true,
     "pictures": ["mesa1.jpeg", "mesa2.jpeg"]
   }
   ,{
@@ -124,6 +125,7 @@
     "title": "Aspirador Electrolux Mobi 1200w",
     "description": "Não usa saco coletor. Fio retrátil.",
     "price": "R$ 50,00",
+    "sold": true,
     "pictures": ["aspirador1.jpg"]
   }
   ,{

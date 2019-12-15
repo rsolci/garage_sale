@@ -32,7 +32,11 @@ body {
     transition: -webkit-transform 0.25s ease;
 }
 .itens-container article img.zoomed {
+    transform: scale(3);
     -webkit-transform: scale(3);
+    -moz-transform: scale(3);
+    -ms-transform: scale(3);
+    -o-transform: scale(3);
 }
 
 .itens-container article div {

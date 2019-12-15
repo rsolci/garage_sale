@@ -119,5 +119,11 @@
     "price": "R$ 50,00",
     "pictures": ["aspirador1.jpg"]
   }
+  ,{
+    "title": "Mesa para escritório SEM gaveteiro",
+    "description": "68 x 120 x 75 cm (largura, comprimento, altura). Foto para ilustração do modelo. Não possui gaveteiro",
+    "price": "R$ 50,00",
+    "pictures": ["mesa_escritorio.jpg"]
+  }
   
 ]

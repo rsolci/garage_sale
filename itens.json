@@ -155,5 +155,11 @@
     "price": "R$ 60,00",
     "pictures": ["aquecedor.jpg"]
   }
+  ,{
+    "title": "Batedeira SEMP Masterpiece Orbital 600w",
+    "description": "Pouco uso. Acompanha 3 batedores (cremes, massas leves, gancho massa pesada)",
+    "price": "R$ 180,00",
+    "pictures": ["batedeira.jpg"]
+  }
   
 ]

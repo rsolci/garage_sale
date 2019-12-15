@@ -55,7 +55,7 @@ body {
     color: #dc143f;
 }
 
-@media (min-width: 600px) {
+@media screen and (min-width: 1081px) {
     body {
         margin: 0 200px;
     }

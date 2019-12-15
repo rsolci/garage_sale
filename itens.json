@@ -23,4 +23,10 @@
     "price": "R$ 250,00",
     "pictures": ["monitor_lg1.jpg"]
   }
+  ,{
+    "title": "Playstation 4 Slim + 5 Jogos",
+    "description": "2 Anos de Uso, modelo americano (sem restrição de região para blue-ray). Acompanha 1 controle e os jogos: Spider-Man, God of War, Horizon Zero Dawn, Red Dead Redemption e The Last of Us Remastered",
+    "price": "R$ 1500,00",
+    "pictures": ["ps4_1.jpg", "ps4_2.jpeg"]
+  }
 ]

@@ -30,6 +30,12 @@
     "pictures": ["ps4_1.jpg", "ps4_2.jpeg"]
   }
   ,{
+    "title": "Cadeira Gamer ALPHA GAMER EPSILON BLACK. ",
+    "description": "2 Anos de uso. Ótimo estado de conservação.",
+    "price": "R$ 350,00",
+    "pictures": ["cadgamer1.png","cadgamer2.png"]
+  }
+  ,{
     "title": "TV LED 48'' Philips",
     "description": "5 Anos de Uso. Não smart",
     "price": "R$ 800,00",
@@ -42,7 +48,7 @@
     "pictures": ["lavar1.jpeg"]
   }
   ,{
-    "title": "Forno Microondas Electrolux MEF41",
+    "title": "Forno Microondas Electrolux MEF41. 31 Litros",
     "description": "6 Anos de Uso. Marcas de uso no painel numérico",
     "price": "R$ 80,00",
     "pictures": ["microondas.jpeg"]
@@ -54,9 +60,40 @@
     "pictures": ["fogao1.jpeg"]
   }
   ,{
-    "title": "Geladeira Electrolux Frost Free",
-    "description": "Modelo DF4. 6 Anos de uso. Ótimo estado de conservação interno. 1 Arranhão na parte externa direita",
+    "title": "Geladeira Electrolux Frost Free. 402 Litros",
+    "description": "Modelo DF4. 6 Anos de uso. Ótimo estado de conservação interno. 1 Arranhão na parte externa direita. Prateleiras reguláveis",
     "price": "R$ 800,00",
-    "pictures": ["geladeira1.jpeg"]
+    "pictures": ["geladeira1.jpeg","geladeira2.jpeg","geladeira3.jpeg"]
   }
+  ,{
+    "title": "Suporte para Televisão ",
+    "description": "2 Anos de uso. Ótimo estado de conservação.",
+    "price": "R$ 200,00",
+    "pictures": ["suporte1.jpg","suporte2.jpg"]
+  }
+  ,{
+    "title": "Chuveiro Lorenzetti Aqua Storm Ultra 220v 7800w Branco. Eletrônico ",
+    "description": "1 Ano de uso. Ótimo estado de conservação.",
+    "price": "R$ 100,00",
+    "pictures": ["chuveiro1.jpg","chuveiro2.jpg"]
+  }
+  ,{
+    "title": "Triangulo Ortopédico Fino",
+    "description": "Bem conservado.",
+    "price": "R$ 20,00",
+    "pictures": ["tri1.jpg","tri2.jpg"]
+  } 
+  ,{
+    "title": "Triangulo Ortopédico Grosso",
+    "description": "Usado. Marcas de tecido arranhado.",
+    "price": "R$ 15,00",
+    "pictures": ["tri3.jpg","tri4.jpg"]
+  }
+  ,{
+    "title": "Arara com rodinhas. Altura Regulável. Desmontável.",
+    "description": "Ótimo estado de conservação.",
+    "price": "R$ 30,00",
+    "pictures": ["arara.jpg","arara2.jpg"]
+  }
+  
 ]

@@ -1,0 +1,48 @@
+body {
+    margin: 0 200px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.title {
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.contact p {
+    font-family: 'Courier New', Courier, monospace;
+    margin-left: 15px;
+}
+
+.itens-container article {
+    border-top: 1px solid #DADADA;
+    padding-bottom: 10px;
+    margin-top: 20px;
+}
+
+.itens-container article header {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.itens-container article img {
+    max-height: 250px;
+    margin-left: 5px;
+}
+
+.itens-container article div {
+    margin-top: 5px;
+    vertical-align: top;
+}
+
+.itens-container article summary {
+}
+
+.itens-container article footer {
+    padding-top: 20px;
+    font-size: 24px;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+    color: #dc143f;
+}

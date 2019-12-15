@@ -11,7 +11,7 @@ body {
 
 .contact p {
     font-family: 'Courier New', Courier, monospace;
-    margin-left: 15px;
+    padding-left: 15px;
 }
 
 .itens-container article {
@@ -62,5 +62,14 @@ body {
 @media screen and (min-width: 1081px) {
     body {
         margin: 0 200px;
+    }
+    .itens-container article img {
+        max-width: 95%;
+    }
+}
+
+@media screen and (max-width: 1080px) {
+    .itens-container article img {
+        max-width: 95%;
     }
 }

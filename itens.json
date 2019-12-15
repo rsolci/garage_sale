@@ -133,7 +133,7 @@
   }
   ,{
     "title": "Headset Logitech G533 7.1 Wireless",
-    "description": "2 Anos de uso. Ótimo estado de conservação. Espuma interna sem dano e limpa. Bateria durando em média 15h.",
+    "description": "2 Anos de uso. Ótimo estado de conservação. Espuma interna sem dano e limpa. Bateria durando em média 15h. Com caixa original",
     "price": "R$ 250,00",
     "pictures": ["headset1.jpg"]
   }
@@ -148,6 +148,12 @@
     "description": "Teclas baixas, USB",
     "price": "R$ 30,00",
     "pictures": ["teclado_erg1.jpeg"]
+  }
+  ,{
+    "title": "Aquecedor Mondial Thermo Ceramic",
+    "description": "Dois níveis de aquecimento. Menos de 1 Ano de uso. Na caixa. 110v",
+    "price": "R$ 60,00",
+    "pictures": ["aquecedor.jpg"]
   }
   
 ]

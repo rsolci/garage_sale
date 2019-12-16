@@ -25,6 +25,7 @@
     "description": "60hz 1080p. 3 anos de uso. Possui embalagem original. Acompanha suporte de mesa original e articulado",
     "availability": "Retirada ou envio imediato (frete pago pelo comprador)",
     "price": "R$ 250,00",
+    "sold": true,
     "pictures": ["monitor_lg2.jpg", "monitor_lg3.jpg"]
   }
   ,{
@@ -37,6 +38,7 @@
     "title": "Cadeira Gamer ALPHA GAMER EPSILON BLACK. ",
     "description": "2 Anos de uso. Pequenos arranhados de animal no assento",
     "price": "R$ 350,00",
+    "sold": true,
     "pictures": ["cadgamer1.png","cadgamer2.png", "cadgamer3.jpeg"]
   }
   ,{
@@ -49,6 +51,7 @@
     "title": "Lava e Seca Brastemp 7Kg",
     "description": "6 Anos de Uso. Pequenas marcas de uso.",
     "price": "R$ 500,00",
+    "sold": true,
     "pictures": ["lavar1.jpeg"]
   }
   ,{
@@ -62,6 +65,7 @@
     "title": "Fogão Brastemp Clean",
     "description": "6 Anos de Uso. Pequenas marcas de uso no painel superior",
     "price": "R$ 100,00",
+    "sold": true,
     "pictures": ["fogao1.jpeg"]
   }
   ,{
@@ -80,6 +84,7 @@
     "title": "Chuveiro Lorenzetti Aqua Storm Ultra 220v 7800w Branco. Eletrônico ",
     "description": "1 Ano de uso. Ótimo estado de conservação.",
     "price": "R$ 100,00",
+    "sold": true,
     "pictures": ["chuveiro1.jpg","chuveiro2.jpg"]
   }
   ,{
@@ -117,6 +122,7 @@
     "description": "Bom estado de conservação, sem arranhões. 47 x 164 x 71cm (profundidade, largura, altura)",
     "availability": "Retirada ou envio imediato (frete pago pelo comprador)",
     "price": "R$ 50,00",
+    "sold": true,
     "pictures": ["aparador1.jpeg","aparador3.jpeg"]
   }
   ,{

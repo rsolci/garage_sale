@@ -200,6 +200,7 @@
     "title": "Teclado mecânico CoolerMaster ABNT2",
     "description": "Modelo CoolerMaster SGK-4020-GKCM1-BR. Switch Brown. Leds brancos. Com fio",
     "price": "R$ 150,00",
+    "sold": true,
     "pictures": ["teclado1.jpg"]
   }
   

@@ -45,6 +45,7 @@
     "title": "TV LED 48'' Philips",
     "description": "5 Anos de Uso. Não smart",
     "price": "R$ 800,00",
+    "sold": true,
     "pictures": ["tv1.jpg"]
   }
   ,{

@@ -194,6 +194,7 @@
     "title": "Computador",
     "description": "Processador Core i7-8700, Placa mãe Gigabyte Z370M DS3H, Memória Corsair Vengeance 16Gb (2x8) 3000Mhz DDR4 CL15. Placa de vídeo Galax GTX 1080. Gabinete Mid-tower Corsair 460X (2 fans 140mm). 256Gb SSD, 1TB HD 7200rpm, fonte Corsair TX650M 650w",
     "price": "R$ 4200,00",
+    "sold": true,
     "pictures": ["pc1.jpeg", "pc2.jpeg"]
   }
   ,{
